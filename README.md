@@ -102,7 +102,7 @@ SalesForecasting_Bhavesh/
 
 ## Live Dashboard
 
-https://salesforecastingbhaves-ngqi9mkffd8yfjvqkvpens.streamlit.app
+[https://salesforecastingbhaves-ngqi9mkffd8yfjvqkvpens.streamlit.app](https://salesforecastingbhaves-nqgi9mkffd8yfjvqkvpens.streamlit.app/)
 
 ---
 
